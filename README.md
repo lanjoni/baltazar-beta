@@ -4,7 +4,7 @@ This is the BETA version, which uses the current version of Node.js (18.0.0) wit
 
 ---
 
-Salazar emerged as an alternative to the classic pre-customized BOT's offered on the internet today, in order to be intuitive so that anyone, regardless of their degree of programming experience, can customize and make it look their own. Salazar was the name given to the project that makes the source code available in JavaScript for further studies and pertinent customizations. The name was chosen due to the creator's personal tastes.
+Baltazar emerged as an alternative to the classic pre-customized BOT's offered on the internet today, in order to be intuitive so that anyone, regardless of their degree of programming experience, can customize and make it look their own. Baltazar was the name given to the project that makes the source code available in JavaScript for further studies and pertinent customizations. The name was chosen due to the creator's personal tastes.
 
 All updates will be notified and duly amended in this documentation for a complete reading of the full operation of this BOT. If you are interested in contributing, feel free, your point of view and your implementations are essential for the vital functioning of the project.
 
@@ -55,7 +55,7 @@ As soon as the return is done successfully, we will store the complete JSON cont
 
 This same variable will be returned, and this function will be called in our "index.ts" every time it is verified that the message "!frase" has been sent in our Discord.
 
-* It is important to point out that this version of Baltazar uses the current version of Node.js, so the "fetch" function is already pre-implemented for using web APIs, so it is vital that if you use a configuration with the version LTS use the final official version of Salazar. The BETA version aims to make use of new features made available by the community.
+* It is important to point out that this version of Baltazar uses the current version of Node.js, so the "fetch" function is already pre-implemented for using web APIs, so it is vital that if you use a configuration with the version LTS use the final official version of Baltazar. The BETA version aims to make use of new features made available by the community.
 
 Finally, in our "index.ts" we have the import and call of the "quote" function, with the creation of a "Waiter" class (essential for using async functions), and then the return of the message with its content being the variable that received the return from our web API.
 
