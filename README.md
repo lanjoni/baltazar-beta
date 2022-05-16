@@ -1,4 +1,4 @@
-# Baltazar, a customizable elegant bot for Discord <img width="140px" align="right" src="https://cdn.discordapp.com/attachments/953884728983945259/975703192350359562/salazarBetaCertol.png"/>
+# Baltazar, a customizable elegant bot for Discord <img width="140px" align="right" src="https://media.discordapp.net/attachments/953884728983945259/975792878121017414/OAmarelo.png?width=676&height=676"/>
 
 This is the BETA version, which uses the current version of Node.js (18.0.0) with the use and implementation of the "fetch" function to use together with API's. The purpose of this bot is to be fully customizable, easy to access, easy to implement and educational.
 
