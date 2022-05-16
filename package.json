@@ -17,10 +17,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gutoso/baltazar-beta.git"
+    "url": "git+https://github.com/lanjoni/baltazar-beta.git"
   },
   "bugs": {
-    "url": "https://github.com/gutoso/baltazar-beta/issues"
+    "url": "https://github.com/lanjoni/baltazar-beta/issues"
   },
-  "homepage": "https://github.com/gutoso/baltazar-beta#readme"
+  "homepage": "https://github.com/lanjoni/baltazar-beta#readme"
 }
